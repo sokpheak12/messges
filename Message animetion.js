@@ -5,7 +5,7 @@ const wrapper = document.querySelector(".wrapper");
     const noBtn = document.querySelector(".no-btn");
 
     yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Ahhh , I Love You Too ..😍🧸";
+    question.innerHTML = "Ahhh , I Love You Too បងធម៍ .. 🍺😍";
     gif.src = "gifyou.webp";
     });
 
